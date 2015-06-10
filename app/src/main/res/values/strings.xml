@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Memoria-Interna-Externa</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="MemoriaInterna">Memoria Interna</string>
+    <string name="Menu">Menu</string>
+    <string name="MemoriaExterna">Memoria Externa</string>
+    <string name="title_activity_mem_int">MemInt</string>
+    <string name="title_activity_mem_ext">MemExt</string>
+    <string name="primerM"></string>
+    <string name="guardar">Guardar</string>
+    <string name="abrir">Abrir</string>
+</resources>
